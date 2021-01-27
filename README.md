@@ -2,7 +2,7 @@
 Keep on learning and growing.
 
 - Binary Search
--- 
+* 704.Binary Search 
 - Recursion 
 - Sorting Algorithms
 - Linked List
