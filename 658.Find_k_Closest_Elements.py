@@ -20,7 +20,7 @@ def binarySearch(arr, x):  # find the closest left and right index
         return right
 
 
-def findClosestElements(arr, k, x):   # k closets elements; x is the target value
+def findClosestElements(arr, k, x):   # k closets elements; x is target value
     if arr is None or len(arr) == 0:
         return arr
 
