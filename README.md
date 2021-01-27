@@ -2,11 +2,11 @@
 Keep on learning and growing.
 
 * Binary Search
-  * 704.Binary Search
-  * 74.Search in 2D Array
-  * 658.Find K Closest Elements
-  * 34.First and Last Occurrance
-  * 744.Smallest Letter Greater Than Target
+  * 704. Binary Search
+  * 74. Search in 2D Array
+  * 658. Find K Closest Elements
+  * 34. First and Last Occurrance
+  * 744. Smallest Letter Greater Than Target
 - Recursion 
 - Sorting Algorithms
 - Linked List
