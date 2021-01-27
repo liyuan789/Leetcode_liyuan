@@ -25,7 +25,7 @@ print(nextGreatestLetter(['c', 'f', 'j'], 'g'))
 
 
 def nextGreatestLetter2(letters, target):
-    # corner case: ['c', 'f', 'j']; target = 'k'
+    # corner case:['c', 'f', 'j']; target = 'k'
     if letters[-1] <= target:
         return letters[0]
 
