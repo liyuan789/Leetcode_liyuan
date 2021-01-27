@@ -1,4 +1,4 @@
-# First, find the index whose element is equal to target value
+# First, find the index whose element is equal to the target value
 def binarySearch(nums, target):
     if nums is None or len(nums) == 0:
         return -1
