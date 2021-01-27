@@ -2,7 +2,8 @@
 Keep on learning and growing.
 
 - Binary Search
-* 704.Binary Search 
+  * Recommendations
+    * Showing users all the options they can do with something will confuse and/or overwhelm them
 - Recursion 
 - Sorting Algorithms
 - Linked List
