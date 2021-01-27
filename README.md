@@ -1,7 +1,7 @@
 # Leetcode_liyuan
 Keep on learning and growing.
 
-- Binary Search
+* Binary Search
   * Recommendations
     * Showing users all the options they can do with something will confuse and/or overwhelm them
 - Recursion 
