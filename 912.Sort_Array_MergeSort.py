@@ -25,7 +25,7 @@ def merge(left_sorted, right_sorted):
     right_idx = 0
 
     # 两边都有剩余; 谁小移谁
-    while left_idx < len(left_sorted) & right_idx < len(right_sorted):
+    while left_idx < len(left_sorted) and right_idx < len(right_sorted):
         if left_sorted[left_idx] <= right_sorted[right_idx]:
             result.append(left_sorted[left_idx])
             left_idx += 1
@@ -47,3 +47,5 @@ def merge(left_sorted, right_sorted):
 
 
 print(MergeSort([5, 2, 3, 1]))
+print(MergeSort([1, 2, 3, 4]))
+print(MergeSort([4, 3, 2, 1]))
