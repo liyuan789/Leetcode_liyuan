@@ -8,7 +8,13 @@ Keep on learning and growing.
   * 34.First and Last Occurrance
   * 744.Smallest Letter Greater Than Target
 - Recursion 
+  * 509.Fibonacci Number
+  * 50.Power(x,n)
 - Sorting Algorithms
+  * 912.Sort an Array
+    * Selection Sort 
+    * Merger Sort - Recursion
+    * Quick Sort - Recursion
 - Linked List
 - Queue & Stack
 - Binary Tree & Binary Search Tree
