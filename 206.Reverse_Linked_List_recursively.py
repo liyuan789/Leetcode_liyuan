@@ -42,7 +42,7 @@ def reverseLinkedList2(head):
     # Base Case
     # make sure the later head.next.next != null
     if head is None or head.next is None:
-        return head   # return new_head N3; 并返回上一层 recursion 停留的位置
+        return head  # return new_head N3; 并返回上一层 recursion 停留的位置
 
     # Recursive Rule
     # sub-problem 里边的箭头已经反转好; 返回 sub-problem 的 new_head
