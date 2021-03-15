@@ -18,7 +18,7 @@ def deleteNode(root: TreeNode, val: int):
     elif root.val < val:
         root.right = deleteNode(root.right, val)
 
-    # if we found the node (root.value == val), start to delete it
+    # if we found node (root.value == val), start to delete it
     # Once the node is found, have to handle the below 4 cases
     # 1. node doesn't have left or right - return null
     # 2. node only has left subtree- return the left subtree
