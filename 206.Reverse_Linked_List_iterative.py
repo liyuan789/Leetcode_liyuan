@@ -3,7 +3,7 @@
 # Input: 1->2->3->4->5->NULL
 # Output: 5->4->3->2->1->NULLv
 
-# create a linked list
+# create linked list
 # create a class to store linked list by recording the head of the list
 class LinkedList:
     def __init__(self, nodes=None):
